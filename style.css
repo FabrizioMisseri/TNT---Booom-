@@ -8,6 +8,10 @@
 
 }
 
+.container {
+    max-width: 1200px;
+}
+
 .scroll {
     overflow: auto;
     max-height: 55vh;
